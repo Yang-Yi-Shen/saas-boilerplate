@@ -11,3 +11,11 @@ This is a cloneable boilerplate for SaaS projects that is configured for the fol
 - MongoDB 
 - Mongoose
 - Vercel
+
+### How to use
+
+Run this in your command line:
+
+```
+git clone https://github.com/Yang-Yi-Shen/saas-boilerplate
+``` 
